@@ -1,4 +1,4 @@
---Playable Factory Case----------------------------------------------------------------
+--Case-
 
 
 User Oluşturma -> backend/dat/user.js klasorüne gidilir -> name,email,password yazılılır. Terminalden npm run data:import komutu çalıştırılır.
